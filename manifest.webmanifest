@@ -1,0 +1,20 @@
+{
+  "name": "GTA 6 NEWS",
+  "short_name": "GTA 6 NEWS",
+  "description": "أخبار GTA 6 باللغة العربية",
+  "lang": "ar",
+  "dir": "rtl",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#080b14",
+  "theme_color": "#080b14",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
